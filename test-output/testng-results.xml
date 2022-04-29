@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-28T13:33:48 IST" name="Default suite" finished-at="2022-04-28T13:34:40 IST" duration-ms="51790">
+  <suite started-at="2022-04-29T10:24:13 IST" name="Default suite" finished-at="2022-04-29T10:27:57 IST" duration-ms="223856">
     <groups>
     </groups>
-    <test started-at="2022-04-28T13:33:48 IST" name="Default test" finished-at="2022-04-28T13:34:40 IST" duration-ms="51790">
+    <test started-at="2022-04-29T10:24:13 IST" name="Default test" finished-at="2022-04-29T10:27:57 IST" duration-ms="223856">
       <class name="com.sikuli.AutomationProject">
-        <test-method signature="show()[pri:0, instance:com.sikuli.AutomationProject@434a63ab]" started-at="2022-04-28T13:33:48 IST" name="show" finished-at="2022-04-28T13:34:40 IST" duration-ms="51757" status="PASS">
+        <test-method signature="show()[pri:0, instance:com.sikuli.AutomationProject@7c24b813]" started-at="2022-04-29T10:24:13 IST" name="show" finished-at="2022-04-29T10:27:57 IST" duration-ms="223751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- show -->

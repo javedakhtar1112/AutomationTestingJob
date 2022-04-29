@@ -10,9 +10,11 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 public class AutomationProject
 {
+	private String demo ="10";
 	@Test
 	public void show() throws FindFailed
 	{
+		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
